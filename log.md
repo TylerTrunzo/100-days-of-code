@@ -3,6 +3,7 @@
 ### Day 0: October 19,2022
 
 **Today's Progress**: Started intro to Javescript on Codecademy
+
 **Thoughts:** It seems like there are a lot of functions to remember, but I am learning the basics. My goal is to create a website that tracks the in-season cup tracker. Will be awhile before I get there though
 
 
