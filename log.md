@@ -1,29 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 0: October 19,2022
+### Day 0: October 19, 2022
 
 **Today's Progress**: Started intro to Javascript on Codecademy
 
 **Thoughts:** It seems like there are a lot of functions to remember, but I am learning the basics. My goal is to create a website that tracks the in-season cup tracker. Will be awhile before I get there though
 
 
+### Day 1: October 20, 2022
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**:I practiced some more Javascript on Codecademy as well as starting the HTML course. My goal is to use Javascript, HTML, and CSS to format a web page for the in season cup tracker. I think I'll have to learn how to incorporate an API for pulling game scores, but that will come later. The website is my overall goal for this 100 days
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts** It seems confusing at first, but I have to remind myself that it's okay not to get things correct on the first try and trial and error is a valid way to get things done. 
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
